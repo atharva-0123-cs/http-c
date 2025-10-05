@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/http",
+  "command": "/data/data/com.termux/files/usr/bin/cc -D_POSIX_C_SOURCE=200112L -I/data/data/com.termux/files/home/http/include -g -std=c11 -Wall -Wextra -Wpedantic -g -o CMakeFiles/web_server.dir/src/main.c.o -c /data/data/com.termux/files/home/http/src/main.c",
+  "file": "/data/data/com.termux/files/home/http/src/main.c",
+  "output": "CMakeFiles/web_server.dir/src/main.c.o"
+}
+]
