@@ -1,2 +1,37 @@
+# ==========================================
+# Build and Compilation Artifacts
+# ==========================================
 build/
-.cache/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# ==========================================
+# Binaries and Executables
+# ==========================================
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+
+# ==========================================
+# Logs and temp files
+# ==========================================
+*.log
+*.tmp
+
+# ==========================================
+# Generated files (HTML docs, etc.)
+# ==========================================
+docs/
+*.doxygen
+
+
+./web_server
